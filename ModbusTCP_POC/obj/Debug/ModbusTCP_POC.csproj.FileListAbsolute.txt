@@ -1,0 +1,13 @@
+C:\Users\jsmith\src\Testing\ModbusTCP_POC\ModbusTCP_POC\bin\Debug\ModbusTCP_POC.exe.config
+C:\Users\jsmith\src\Testing\ModbusTCP_POC\ModbusTCP_POC\bin\Debug\ModbusTCP_POC.exe
+C:\Users\jsmith\src\Testing\ModbusTCP_POC\ModbusTCP_POC\bin\Debug\ModbusTCP_POC.pdb
+C:\Users\jsmith\src\Testing\ModbusTCP_POC\ModbusTCP_POC\bin\Debug\EasyModbus.dll
+C:\Users\jsmith\src\Testing\ModbusTCP_POC\ModbusTCP_POC\bin\Debug\EasyModbus.xml
+C:\Users\jsmith\src\Testing\ModbusTCP_POC\ModbusTCP_POC\obj\Debug\ModbusTCP_POC.csproj.AssemblyReference.cache
+C:\Users\jsmith\src\Testing\ModbusTCP_POC\ModbusTCP_POC\obj\Debug\ModbusTCP_POC.Form1.resources
+C:\Users\jsmith\src\Testing\ModbusTCP_POC\ModbusTCP_POC\obj\Debug\ModbusTCP_POC.Properties.Resources.resources
+C:\Users\jsmith\src\Testing\ModbusTCP_POC\ModbusTCP_POC\obj\Debug\ModbusTCP_POC.csproj.GenerateResource.cache
+C:\Users\jsmith\src\Testing\ModbusTCP_POC\ModbusTCP_POC\obj\Debug\ModbusTCP_POC.csproj.CoreCompileInputs.cache
+C:\Users\jsmith\src\Testing\ModbusTCP_POC\ModbusTCP_POC\obj\Debug\ModbusTCP_POC.exe
+C:\Users\jsmith\src\Testing\ModbusTCP_POC\ModbusTCP_POC\obj\Debug\ModbusTCP_POC.pdb
+C:\Users\jsmith\src\Testing\ModbusTCP_POC\ModbusTCP_POC\obj\Debug\ModbusTCP_POC.csproj.CopyComplete
